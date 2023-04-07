@@ -1,4 +1,4 @@
-num=int(input("enter avalue:")
+num=int(input("enter a value:")
 n1,n2=0,1
 print(n1)
 print(n2)
