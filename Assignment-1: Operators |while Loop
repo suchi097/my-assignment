@@ -1,0 +1,9 @@
+num=int(input("enter avalue")
+n1,n2=0,1
+print(n1)
+print(n2)
+while(num<=50):
+     n=n1+n2
+     n1=n2
+     n2=n
+     print(n)
